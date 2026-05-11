@@ -30,7 +30,7 @@ if not BOT_TOKEN:
 
 REQUIRED_CHANNELS = ["@ffxkhmerofficial"]
 GROUP_JOIN_LINK = "https://t.me/ffxkhmergroup"
-OWNER_ID = your tg user id (integer)    #Example: 6282811167
+OWNER_ID = 7574111007    #Example: 6282811167
 OWNER_USERNAME = "@BugSpyBots"
 
 bot = telebot.TeleBot(BOT_TOKEN)
